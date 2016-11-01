@@ -72,9 +72,9 @@ else:
 
 
 # To assign camera by name: put string(s) in list
-world_src = ["Pupil Cam1 ID2","Logitech Camera","(046d:081d)","C510","B525", "C525","C615","C920","C930e"]
-eye0_src = ["Pupil Cam1 ID0","HD-6000","Integrated Camera","HD USB Camera","USB 2.0 Camera"]
-eye1_src = ["Pupil Cam1 ID1","HD-6000","Integrated Camera"]
+world_src = ["Pupil Cam1 ID2","Logitech Camera","(046d:081d)","C510","B525", "C525","C615","C920","C930e","USB Camera-B4.09.24.1"]
+eye0_src = ["Pupil Cam1 ID0","HD-6000","Integrated Camera","HD USB Camera","USB 2.0 Camera","USB Camera-B4.09.24.1"]
+eye1_src = ["Pupil Cam1 ID1","HD-6000","Integrated Camera","USB Camera-B4.09.24.1"]
 
 # to use a pre-recorded video.
 # Use a string to specify the path to your video file as demonstrated below
